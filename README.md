@@ -1,4 +1,4 @@
-<img src="">
+<img src="https://github.com/CarolinaDangelo/stats-preview-card/blob/fe8a0e3a0fc89ccfe93e73e529460288e8f7b15f/images/captura.jpg">
 
 <h1 align="center">Frontend Mentor - Stats preview card component solution<h1>
 
